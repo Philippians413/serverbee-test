@@ -1,0 +1,6 @@
+providers/
+**.tfstate
+**.tfstate.**
+**.lock.**
+kubeconfig
+token.txt
